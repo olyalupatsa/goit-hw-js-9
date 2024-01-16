@@ -16,6 +16,9 @@
 }
 
 .feedback-form button {
+    /* padding: 8px 12px;
+  font: inherit;
+  cursor: pointer; */
     max-width: 95px;
     max-height: 40px;
     display: flex;
